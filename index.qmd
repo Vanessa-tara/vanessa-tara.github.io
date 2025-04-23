@@ -2,6 +2,10 @@
 title: "Vanessa Dator"
 ---
 
+[This is a link to my Github!](vanessa-tara.github.io/)
+
+[This is a link to my Linked in!](https://www.linkedin.com/in/vanessa-dator/)
+
 ![photo of me](IMG_1392.jpg)
 
 Hi! I'm Vanessa Dator and I'm a senior at Middlebury College, majoring in Psychology and minoring in Education Studies.
@@ -9,4 +13,10 @@ Hi! I'm Vanessa Dator and I'm a senior at Middlebury College, majoring in Psycho
 My passion for enhancing workspaces through creative programming and efficient administration has shaped my active involvement in the Middlebury community over the years. I’ve had the privilege of contributing to impactful organizations like the Senior Committee and the Activities Board, where I strengthened my organizational skills and collaborated with diverse groups on a large scale to enrich the student experience.
 
 My commitment to community enhancement extends beyond Middlebury. As a Student Ambassador for College Match, I assist with event planning and logistics to help expose marginalized high school students to higher education opportunities, while also supporting current Middlebury students as they navigate college life. Additionally, this past summer, I served as a Communications Intern at Vermont Afterschool, where I helped empower youth and advocated for third spaces that provide resources for underserved communities. I look forward to continuing to seek opportunities that enhance the workspace and communities around me.
+
+My Hobbies:
+
+- Running
+- Yoga
+- Arts and Crafts (painting, coloring, etc)
 `
