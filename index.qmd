@@ -1,12 +1,23 @@
 ---
-title: "Vanessa Dator"
+title: Vanessa Dator (she/her)
+image: profile.jpg
+about:
+  id: hero-heading
+  template: jolla
+  image: IMG_1392.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: vanessa-tara.github.io/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/vanessa-dator/
+sidebar: false
 ---
 
-[This is a link to my Github!](vanessa-tara.github.io/)
+### About Me
+:::{#hero-heading}
 
-[This is a link to my Linked in!](https://www.linkedin.com/in/vanessa-dator/)
-
-![photo of me](IMG_1392.jpg)
 
 Hi! I'm Vanessa Dator and I'm a senior at Middlebury College, majoring in Psychology and minoring in Education Studies.
 
@@ -14,9 +25,31 @@ My passion for enhancing workspaces through creative programming and efficient a
 
 My commitment to community enhancement extends beyond Middlebury. As a Student Ambassador for College Match, I assist with event planning and logistics to help expose marginalized high school students to higher education opportunities, while also supporting current Middlebury students as they navigate college life. Additionally, this past summer, I served as a Communications Intern at Vermont Afterschool, where I helped empower youth and advocated for third spaces that provide resources for underserved communities. I look forward to continuing to seek opportunities that enhance the workspace and communities around me.
 
-My Hobbies:
+## Education
 
+**Middlebury College** | Los Angeles, CA
+
+B.A. in Psychology (Major) and Education Studies (Minor) | Sep 2021 - May 2025
+
+
+## Experience
+
+*Middlebury College* | Box Office Student Supervisor | Sep 2022 - Present
+
+*Middlebury College* | Activities Executive Board President | May 2023 - May 2024
+
+*College Match* | Student Ambassador | Jun 2022 - Present
+
+*Vermont Afterschool* | Communications Intern | Jun 2024 - Aug 2024  
+
+
+
+## Hobbies
 - Running
 - Yoga
-- Arts and Crafts (painting, coloring, etc)
+- Arts and Crafts 
+
+
+:::
+
 `
